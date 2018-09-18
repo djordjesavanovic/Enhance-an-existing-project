@@ -3,6 +3,24 @@
 
 ---
 
+# Info
+This is a simple task management app. It allows you to:
+
+* enter new tasks
+* edit the current tasks
+* clear the finished tasks
+* filter the tasks by their state
+
+**How it works?**
+
+Once you open the main page (`index.html`), you will see an input field with the following placeholder: "What needs to be done?". You can use this field to insert a new task and confirm it, by clicking the "Enter" button on your keyboard.
+
+Now that you've added your first task, you can mark it as "completed" by checking its checkbox on the left-hand side, or you can edit/delete it.
+
+In case you've added a lot of tasks and you got lost in all of them, there's an option to filter them by their state (All, active, completed). Simply click on one of the filters to achieve the desired effect.
+
+---
+
 # Downloading
 There are two ways to obtain this piece of software:
 **Cloning it to your local Git VCS, by running the following command:**
