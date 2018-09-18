@@ -17,7 +17,9 @@ or
 
 # Installing
 **Prerequisites**
+
 In order to install this app on your computer, you need to have Node.js server & npm installed. In case you don't havem you can download them from [Node.js website](https://docs.npmjs.com/getting-started/installing-node#installing-npm-from-the-nodejs-site).
+
 ---
 After having downloaded/cloned this app, open terminal and navigate to the project folder. Once you've done that, run the following command:
 ```bash
