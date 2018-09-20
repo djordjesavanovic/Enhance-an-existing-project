@@ -271,7 +271,7 @@ describe('controller', function () {
 		it('should remove an entry from the model', function () {
 
             view.trigger('itemRemove', { id: 42 });
-            
+
             expect(model.remove).toHaveBeenCalledWith(42, jasmine.any(Function));
 
 		});
